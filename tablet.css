@@ -1,0 +1,13 @@
+
+@media (max-width: 1250px) {
+    .contenedor {
+        flex-direction: column;
+    }
+    .header-1 {
+        width: 100%;
+    }
+    .header-2 {
+        width: 100%;
+    }
+}
+
